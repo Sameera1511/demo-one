@@ -1,0 +1,1 @@
+just some text. which indicates text before first commit.
